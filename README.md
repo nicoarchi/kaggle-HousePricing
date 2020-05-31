@@ -1,12 +1,12 @@
 # README
 
-Submission for the "House Prices: Advanced Regression Techniques" Kaggle Competition.
+Submission for the "House Prices: Advanced Regression Techniques" Kaggle Competition.\
+
 Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
 ## The Challenge. 
 
-[House Prices Competition on Kaggle]
-(https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+[House Prices Competition on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
 ## Using Random Forest Regression Algorithm my Score was 0.15098. 
 
